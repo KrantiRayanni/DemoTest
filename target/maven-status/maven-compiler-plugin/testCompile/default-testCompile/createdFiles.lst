@@ -1,0 +1,4 @@
+example\mercurytours\page\BrowserFactory.class
+example\mercurytours\page\LoginPage.class
+example\mercurytours\VerifyLoginLogout.class
+mnb\test\AppTest.class
